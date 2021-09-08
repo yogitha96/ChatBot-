@@ -85,5 +85,5 @@ Have a look at [intents.json](intents.json). You can customize it according to y
 }
 ```
 
-###customize the html page
+## customize the html page
 Have a look at the html file in the templates folder. You can change it according your preferences.
