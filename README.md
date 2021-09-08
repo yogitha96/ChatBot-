@@ -87,3 +87,13 @@ Have a look at [intents.json](intents.json). You can customize it according to y
 
 ## customize the html page
 Have a look at the html file in the templates folder. You can change it according your preferences.
+
+## Flask API
+When we run the app.py file, you will get the following. Please click on the link to run the application on your remote server.
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+ * Debug mode: off
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+## chat.py file
+It is used to load the saved model and data to run the conversation between the bot and the user.
